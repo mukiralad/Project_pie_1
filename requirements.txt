@@ -51,3 +51,6 @@ whitenoise==5.3.0
 xhtml2pdf==0.2.5
 yarg==0.1.9
 zopfli==0.1.9
+tk==0.1.0
+requests==2.23.0
+Pillow >= 7
